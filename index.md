@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: IMI Computer on GitHub blog!
 ---
